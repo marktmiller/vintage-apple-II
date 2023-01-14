@@ -29,6 +29,8 @@ The edit-event subwindow also has a delete-character function you access by pres
 
 When you're done editing an event, you can press the Return key at any time, and all of the text in the subwindow will be saved back to the event you edited.
 
+You can print a day's events from VIEW/EDIT A DAY by just pressing "P", once the window on a day has opened. For some reason I've forgotten, I only made the print function available in this mode.
+
 Back at the main screen, it's also possible to clear a day's events in one step, by selecting CLEAR A DAY. You can also clear the entire week in one step, with CLEAR WEEK.
 
 Once you're done entering or modifying a week's events, you can save the week to disk, using SAVE WEEK. It will ask you for a filename. Once you enter that, it will save the week's events.
