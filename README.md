@@ -5,7 +5,7 @@ WEEK.app
 
 WEEK.app (Week In Advance) is an Applesoft Basic program I wrote in 1988 to track things I needed to schedule when I was in high school. The whole program functions in text mode, but I wrote it to mimic a graphical user interface re. icons and windows (it does not use a mouse, though). Functions are accessed through the keyboard, most with single-key inputs.
 
-The main screen gives you 7 days in a week, in which you can place events. You press a number key from the main screen to carry out a function. After requesting to add events to a day, or view/edit a day's events, it asks you which day of the week you want. You put in a 3-letter abbreviation for the day (just as you see above each day "icon". Once you put that in, it opens a window on that day's events.
+The main screen gives you 7 days in a week, in which you can place events. You press a number key from the main screen to carry out a function. After requesting to add events to a day, or view/edit a day's events, it asks you which day of the week you want. You put in a 3-letter abbreviation for the day (just as you see above each day "icon"). Once you put that in, it opens a window on that day's events.
 
 When it opens a window, it displays above the window the keys you can press to do something in the window and/or get back to the main screen.
 
