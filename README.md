@@ -1,7 +1,9 @@
 # vintage-apple-II
 Vintage projects for Apple II computers
 
-WEEK.app
+## WEEK.app
+
+![Week In Advance](https://github.com/user-attachments/assets/609cf778-768b-4fc7-9548-4ec058d19a92)
 
 WEEK.app (Week In Advance) is an Applesoft Basic program I wrote in 1988 to track things I needed to schedule when I was in high school. The whole program functions in text mode, but I wrote it to mimic a graphical user interface re. icons and windows (it does not use a mouse, though). Functions are accessed through the keyboard, most with single-key inputs.
 
